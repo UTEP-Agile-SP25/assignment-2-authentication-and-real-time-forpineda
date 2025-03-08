@@ -1,0 +1,29 @@
+{
+  "name": "assignment-2-authentication-and-real-time-forpineda",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SknQUJ55) # Assignment 2",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UTEP-Agile-SP25/assignment-2-authentication-and-real-time-forpineda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/UTEP-Agile-SP25/assignment-2-authentication-and-real-time-forpineda/issues"
+  },
+  "homepage": "https://github.com/UTEP-Agile-SP25/assignment-2-authentication-and-real-time-forpineda#readme",
+  "devDependencies": {
+    "@babel/core": "^7.26.9",
+    "@babel/preset-env": "^7.26.9",
+    "babel-loader": "^10.0.0",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
+  }
+}
